@@ -1,0 +1,5 @@
+{
+  "name": "ASTRO-DYNAMICS",
+  "description": "An interactive cosmic simulator where you control gravity wells and stellar particles.",
+  "requestFramePermissions": []
+}
